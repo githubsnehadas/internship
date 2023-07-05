@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+  background-color: #283149;
+  background-image: url(data:image/jpeg;base64,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);
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url("images/tom1.png");
+}
+
+.a {
+  background-image: url("images/tom2.png");
+}
+
+.s {
+  background-image: url("images/tom3.png");
+}
+
+.d {
+  background-image: url("images/tom4.png");
+}
+
+.j {
+  background-image: url("images/snare.png");
+}
+
+.k {
+  background-image: url("images/crash.png");
+}
+
+.l {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+@media(max-width:1000px){
+  .drum{
+  width: 350px;
+  height: 200px;
+text-align: center;
+margin: 10px 10px 10px 323px;
+    display: block;
+  }
+}
